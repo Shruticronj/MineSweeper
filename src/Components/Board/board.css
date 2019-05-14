@@ -1,0 +1,31 @@
+.outer-box {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: lavender;
+    width: 250px;
+    height: 300px;
+    margin: 150px auto;
+
+}
+
+.inner-box1 {
+    border: 1px solid blue;
+    width: 226px;
+    height: 40px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    margin: 7px;
+    padding: 5px;
+}
+
+.btn1 {
+    border-radius: 3px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    font: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
